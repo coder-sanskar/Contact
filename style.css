@@ -1,0 +1,27 @@
+.header{
+    text-align : center;
+    background-color:#f2fc07;
+    border: 3px solid #000000;
+    border-radius: 15px;
+    padding:15px;
+    font-size:20px;
+    font-family: fantasy;
+    font-weight:400;
+}
+
+.content{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:#f2fc07;
+    border: 3px solid #000000;
+    border-radius: 15px;
+    padding:15px;
+    font-size:20px;
+    font-family: fantasy;
+    font-weight:400;
+}
+
+body{
+    background-color:#07fcca;
+    <img src = "Contact-bg.jpg" alt = "Background">
+}
